@@ -54,7 +54,7 @@
 	</dependencies>
 	<build>
 		<plugins>
-			<!--Spring Boot的编译插件 -->
+			<!-- Spring Boot的编译插件 -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
